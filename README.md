@@ -1,5 +1,3 @@
-This readme explains the logical sequence to replicate the main results in "The Dynamics of Product and Labor Market Power: Evidence from Lithuania" by Ziran Ding, Jose Garcia-Louzao and Valentin Jouvanceau
-
 
 ## Data access
 The primary data used in the analysis are confidential and therefore are not provided.
