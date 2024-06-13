@@ -7,7 +7,7 @@ The data are kept at the facilities of the Bank of Lithuania. Researchers can ap
 
 
 ## Replication files
-The full set of results can be obtained running the `Master_File.do` program. This program includes the folliwing sub-programs:
+The full set of results can be obtained running the `Master_File.do` program. This program includes the following sub-programs:
 
 * `data_extraction.do`      - opens annual files and set up a panel of firms between 2004 and 2018 with key variables, requires associated ado files: `xlsfirms_new.ado` and `xlsfirms.ado` 
 * `prog_translog.do`        - sets up estimation sample and performs translog production function estimation, requires associated ado file: `dlw_TL_LL.ado`
