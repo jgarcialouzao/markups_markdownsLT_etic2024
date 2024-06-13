@@ -1,6 +1,6 @@
 
 ## Data access
-The primary data used in the analysis are confidential and therefore are not provided.
+The dataset used in the analysis si confidential and therefore are not provided.
 The data are kept at the facilities of the Bank of Lithuania. Researchers can apply for the visit program and obtain access to the dataset (https://www.lb.lt/en/ca-visiting-researcherprogramme).
 
 
